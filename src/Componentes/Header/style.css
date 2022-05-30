@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #5261e9;
+    height: 70px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    min-height: 40px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: 700;
+    padding-top: 15px;
+}
+
